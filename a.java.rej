@@ -1,0 +1,10 @@
+diff a/a.java b/a.java	(rejected hunks)
+@@ -1,7 +1,6 @@
+ class A {
+ 	public static void main(String[] args){
+ 		System.out.println("in A class");
+-		System.out.println("new line added");
+ 		System.out.println("new line added: develop branch");
+ 	}
+ }
+\ No newline at end of file

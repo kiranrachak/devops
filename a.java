@@ -1,6 +1,6 @@
 class A {
 	public static void main(String[] args){
 		System.out.println("in A class");
-		System.out.println("new line added: Master branch");
+		System.out.println("new line added");
 	}
 }
